@@ -22,7 +22,7 @@ A simple and intuitive Contact Management application built with Flutter and Fir
 
 ## Screenshots
 
-![Untitled Project(4).jpg](..%2F..%2FDownloads%2FUntitled%20Project%284%29.jpg)
+![Untitled Project(4)](https://github.com/user-attachments/assets/0d1d679e-dbe0-4f99-a81a-d4fc8db68561)
 
 ## Installation
 
